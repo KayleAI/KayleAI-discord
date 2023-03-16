@@ -1,4 +1,4 @@
-# KayleAI’s Discord Bot
+# KayleAI’s Discord Trainer Bot
 
 Our discord bot is an open-source effort that uses our API to collect and moderate messages.
 
